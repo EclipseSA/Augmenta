@@ -1,6 +1,6 @@
 # Augmenta
 
-Augementa is Point-Of-Sale System.
+Augementa is Point-Of-Sale System. This is the master branch where all final products are released.
 
 # Features
 
