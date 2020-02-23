@@ -1,6 +1,6 @@
 # Augmenta
 
-Augementa is Point-Of-Sale System. This is the development branch
+Augementa is Point-Of-Sale System. This is the development branch. This is where new features will be added where programs that are unreleased to the final product.
 
 # Features
 
